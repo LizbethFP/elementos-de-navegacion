@@ -8,7 +8,7 @@
 ---
 El reto consiste en identificar los tipos de navegación de tres páginas web, [Breather](https://breather.com/?version=c "Breather"), [Github](https://github.com/ "Github") y [Medium](https://medium.com/ "Medium").
 
-#### Breather:
+### Breather:
 ![Sin titulo](docs/breather1.JPG)
 
 ![Sin titulo](docs/breather3.JPG)
@@ -25,10 +25,31 @@ El reto consiste en identificar los tipos de navegación de tres páginas web, [
 
 ![Sin titulo](docs/breather9.JPG)
 
-#### Github:
+### Github:
+![Sin titulo](docs/github1.JPG)
 
-#### Medium:
+![Sin titulo](docs/github2.JPG)
 
+![Sin titulo](docs/github3.JPG)
+
+![Sin titulo](docs/github4.JPG)
+
+![Sin titulo](docs/github5.JPG)
+
+![Sin titulo](docs/github6.JPG)
+
+### Medium:
+![Sin titulo](docs/medium1.JPG)
+
+![Sin titulo](docs/medium2.JPG)
+
+![Sin titulo](docs/medium3.JPG)
+
+![Sin titulo](docs/medium4.JPG)
+
+![Sin titulo](docs/medium5.JPG)
+
+![Sin titulo](docs/medium6.JPG)
 
 ## Contenido
 
